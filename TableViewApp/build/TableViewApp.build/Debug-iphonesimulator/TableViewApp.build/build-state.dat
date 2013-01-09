@@ -1,0 +1,267 @@
+TTableViewApp
+v7
+r0
+t322156259.318141
+cCheck dependencies
+cProcessInfoPlistFile /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/Info.plist TableViewApp-Info.plist
+cCompileXIB /Users/yangt299/Apps/TableViewApp/MainWindow.xib
+cCompileXIB /Users/yangt299/Apps/TableViewApp/RootViewController.xib
+cProcessPCH /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewApp_Prefix-akuhytqqyakanrdoicjtydpqtkul/TableViewApp_Prefix.pch.gch TableViewApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/main.o /Users/yangt299/Apps/TableViewApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/TableViewAppAppDelegate.o /Users/yangt299/Apps/TableViewApp/Classes/TableViewAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/RootViewController.o /Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp normal i386
+cGenerateDSYMFile /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app.dSYM /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp
+cTouch /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/usr/include/Availability.h
+c000000004CB3FA080000000000001ADD
+t1286863368
+s6877
+
+N/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.h
+c000000004D837E1A00000000000001C4
+t1300463130
+s452
+i<UIKit/UIKit.h>
+
+N/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m
+c000000004D837F600000000000001475
+t1300463456
+s5237
+i"RootViewController.h"
+
+N/Users/yangt299/Apps/TableViewApp/Classes/TableViewAppAppDelegate.h
+c000000004D837D8F00000000000001D4
+t1300462991
+s468
+i<UIKit/UIKit.h>
+
+N/Users/yangt299/Apps/TableViewApp/Classes/TableViewAppAppDelegate.m
+c000000004D837D8F0000000000000AAD
+t1300462991
+s2733
+i"TableViewAppAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/yangt299/Apps/TableViewApp/MainWindow.xib
+c000000004D837D8F0000000000006008
+t1300462991
+s24584
+
+N/Users/yangt299/Apps/TableViewApp/RootViewController.xib
+c000000004D837F2E000000000000455F
+t1300463406
+s17759
+
+N/Users/yangt299/Apps/TableViewApp/TableViewApp_Prefix.pch
+c000000004D837D8F000000000000014A
+t1300462991
+s330
+i<Availability.h>
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app
+t1300463459
+s238
+
+N/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app.dSYM
+t1300463459
+s102
+
+N/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/Info.plist
+t1300463000
+s611
+
+N/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/MainWindow.nib
+t1300463002
+s1514
+
+N/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/PkgInfo
+t1300463001
+s8
+
+N/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/RootViewController.nib
+t1300463416
+s1025
+
+N/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp
+t1300463459
+s23276
+
+N/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/RootViewController.o
+t1300463458
+s51560
+
+N/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/TableViewApp.LinkFileList
+c000000004D837D98000000000000019E
+t1300463000
+s414
+
+N/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/TableViewAppAppDelegate.o
+t1300463322
+s52860
+
+N/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/main.o
+t1300463004
+s6292
+
+N/Users/yangt299/Apps/TableViewApp/main.m
+c000000004D837D900000000000000160
+t1300462992
+s352
+i<UIKit/UIKit.h>
+
+N/var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewApp_Prefix-akuhytqqyakanrdoicjtydpqtkul/TableViewApp_Prefix.pch.gch
+t1300463004
+s15453392
+
+NTableViewApp-Info.plist
+c000000004D837D8F000000000000038D
+t1300462991
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322156258#322156258#0(0"0(0#1#0"8631677056#0"0#
+
+CCompileC build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/RootViewController.o /Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322156258.730412
+e322156259.045905
+r1
+xCompileC
+xbuild/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/RootViewController.o
+x/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':
+o/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m:90: warning: 'RootViewController' may not respond to '-searchResults'
+o/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m:90: warning: (Messages without a matching method signature
+o/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m:90: warning: will be assumed to return 'id' and accept
+o/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m:90: warning: '...' as arguments.)
+lSLF07#2@70"Compile /Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m322156258#322156259#0(604"/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m: In function '-[RootViewController tableView:cellForRowAtIndexPath:]':/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m:90: warning: 'RootViewController' may not respond to '-searchResults'/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m:90: warning: (Messages without a matching method signature/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m:90: warning: will be assumed to return 'id' and accept/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m:90: warning: '...' as arguments.)2(22@56"'RootViewController' may not respond to '-searchResults'322156258#134#133#0(6@62"/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m322156256#90#0#90#0#26"'*' may not respond to '*'0(13@108"(Messages without a matching method signature will be assumed to return 'id' and accept '...' as arguments.)322156258#267#122#0(6@62"/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m322156256#90#0#90#0#0"0(0#0#62"/Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m8618479456#1995"    cd /Users/yangt299/Apps/TableViewApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-generated-files.hmap -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-own-target-headers.hmap -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-all-target-headers.hmap -iquote /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-project-headers.hmap -F/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator -I/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/include -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/DerivedSources/i386 -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/DerivedSources -include /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewApp_Prefix-akuhytqqyakanrdoicjtydpqtkul/TableViewApp_Prefix.pch -c /Users/yangt299/Apps/TableViewApp/Classes/RootViewController.m -o /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/TableViewAppAppDelegate.o /Users/yangt299/Apps/TableViewApp/Classes/TableViewAppAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322156122.460714
+e322156122.681039
+r1
+xCompileC
+xbuild/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/TableViewAppAppDelegate.o
+x/Users/yangt299/Apps/TableViewApp/Classes/TableViewAppAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@75"Compile /Users/yangt299/Apps/TableViewApp/Classes/TableViewAppAppDelegate.m322156122#322156122#0(0"0(0#0#67"/Users/yangt299/Apps/TableViewApp/Classes/TableViewAppAppDelegate.m8632111136#2005"    cd /Users/yangt299/Apps/TableViewApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-generated-files.hmap -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-own-target-headers.hmap -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-all-target-headers.hmap -iquote /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-project-headers.hmap -F/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator -I/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/include -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/DerivedSources/i386 -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/DerivedSources -include /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewApp_Prefix-akuhytqqyakanrdoicjtydpqtkul/TableViewApp_Prefix.pch -c /Users/yangt299/Apps/TableViewApp/Classes/TableViewAppAppDelegate.m -o /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/TableViewAppAppDelegate.o0#
+
+CCompileC build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/main.o /Users/yangt299/Apps/TableViewApp/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322155804.853905
+e322155804.993940
+r1
+xCompileC
+xbuild/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/main.o
+x/Users/yangt299/Apps/TableViewApp/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@48"Compile /Users/yangt299/Apps/TableViewApp/main.m322155804#322155804#0(0"0(0#0#40"/Users/yangt299/Apps/TableViewApp/main.m8630928640#1959"    cd /Users/yangt299/Apps/TableViewApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-generated-files.hmap -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-own-target-headers.hmap -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-all-target-headers.hmap -iquote /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-project-headers.hmap -F/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator -I/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/include -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/DerivedSources/i386 -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/DerivedSources -include /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewApp_Prefix-akuhytqqyakanrdoicjtydpqtkul/TableViewApp_Prefix.pch -c /Users/yangt299/Apps/TableViewApp/main.m -o /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/yangt299/Apps/TableViewApp/MainWindow.xib
+s322155801.013185
+e322155802.312806
+r1
+xCompileXIB
+x/Users/yangt299/Apps/TableViewApp/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322155801#322155802#0(0"0(0#0#48"/Users/yangt299/Apps/TableViewApp/MainWindow.xib8625812896#560"    cd /Users/yangt299/Apps/TableViewApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/MainWindow.nib /Users/yangt299/Apps/TableViewApp/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/yangt299/Apps/TableViewApp/RootViewController.xib
+s322156215.197495
+e322156216.364653
+r1
+xCompileXIB
+x/Users/yangt299/Apps/TableViewApp/RootViewController.xib
+lSLF07#2@33"CompileXIB RootViewController.xib322156215#322156216#0(0"0(0#0#56"/Users/yangt299/Apps/TableViewApp/RootViewController.xib8632549984#576"    cd /Users/yangt299/Apps/TableViewApp    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/RootViewController.nib /Users/yangt299/Apps/TableViewApp/RootViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app.dSYM /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp
+s322156259.168357
+e322156259.314543
+r1
+xGenerateDSYMFile
+x/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app.dSYM
+x/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp
+lSLF07#2@124"GenerateDSYMFile build/Debug-iphonesimulator/TableViewApp.app.dSYM build/Debug-iphonesimulator/TableViewApp.app/TableViewApp322156259#322156259#0(0"0(0#0#91"/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp8633308960#383"    cd /Users/yangt299/Apps/TableViewApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp -o /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app.dSYM0#
+
+CLd /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp normal i386
+s322156259.045998
+e322156259.168263
+r1
+xLd
+x/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp
+xnormal
+xi386
+lSLF07#2@96"Link /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp322156259#322156259#0(0"0(0#0#0"8616423808#900"    cd /Users/yangt299/Apps/TableViewApp    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator -F/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator -filelist /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/Objects-normal/i386/TableViewApp.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/TableViewApp0#
+
+CProcessInfoPlistFile /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/Info.plist TableViewApp-Info.plist
+s322155800.981700
+e322155801.013094
+r1
+xProcessInfoPlistFile
+x/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/Info.plist
+xTableViewApp-Info.plist
+lSLF07#2@31"Process TableViewApp-Info.plist322155800#322155801#0(0"0(0#0#57"/Users/yangt299/Apps/TableViewApp/TableViewApp-Info.plist30681223440564324#479"    cd /Users/yangt299/Apps/TableViewApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility TableViewApp-Info.plist -genpkginfo /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app/Info.plist0#
+
+CProcessPCH /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewApp_Prefix-akuhytqqyakanrdoicjtydpqtkul/TableViewApp_Prefix.pch.gch TableViewApp_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322155802.312922
+e322155804.853707
+r1
+xProcessPCH
+x/var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewApp_Prefix-akuhytqqyakanrdoicjtydpqtkul/TableViewApp_Prefix.pch.gch
+xTableViewApp_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@34"Precompile TableViewApp_Prefix.pch322155802#322155804#0(0"0(0#0#57"/Users/yangt299/Apps/TableViewApp/TableViewApp_Prefix.pch8632884320#1851"    cd /Users/yangt299/Apps/TableViewApp    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-generated-files.hmap -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-own-target-headers.hmap -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-all-target-headers.hmap -iquote /Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/TableViewApp-project-headers.hmap -F/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator -I/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/include -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/DerivedSources/i386 -I/Users/yangt299/Apps/TableViewApp/build/TableViewApp.build/Debug-iphonesimulator/TableViewApp.build/DerivedSources -c /Users/yangt299/Apps/TableViewApp/TableViewApp_Prefix.pch -o /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/TableViewApp_Prefix-akuhytqqyakanrdoicjtydpqtkul/TableViewApp_Prefix.pch.gch0#
+
+CTouch /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app
+s322156259.314631
+e322156259.318097
+r1
+xTouch
+x/Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app
+lSLF07#2@84"Touch /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app322156259#322156259#0(0"0(0#0#0"8631628320#273"    cd /Users/yangt299/Apps/TableViewApp    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/yangt299/Apps/TableViewApp/build/Debug-iphonesimulator/TableViewApp.app0#
+

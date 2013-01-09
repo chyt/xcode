@@ -1,0 +1,286 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		5163863314315ED900C4A455 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5163863214315ED900C4A455 /* UIKit.framework */; };
+		5163863514315ED900C4A455 /* Foundation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5163863414315ED900C4A455 /* Foundation.framework */; };
+		5163863714315ED900C4A455 /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 5163863614315ED900C4A455 /* CoreGraphics.framework */; };
+		5163863D14315ED900C4A455 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = 5163863B14315ED900C4A455 /* InfoPlist.strings */; };
+		5163864014315ED900C4A455 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 5163863F14315ED900C4A455 /* main.m */; };
+		5163864314315ED900C4A455 /* AlphaTransparencyAppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 5163864214315ED900C4A455 /* AlphaTransparencyAppDelegate.m */; };
+		5163864614315ED900C4A455 /* MainWindow.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5163864414315ED900C4A455 /* MainWindow.xib */; };
+		5163864914315ED900C4A455 /* AlphaTransparencyViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 5163864814315ED900C4A455 /* AlphaTransparencyViewController.m */; };
+		5163864C14315ED900C4A455 /* AlphaTransparencyViewController.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5163864A14315ED900C4A455 /* AlphaTransparencyViewController.xib */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		5163862E14315ED900C4A455 /* AlphaTransparency.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = AlphaTransparency.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		5163863214315ED900C4A455 /* UIKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = UIKit.framework; path = System/Library/Frameworks/UIKit.framework; sourceTree = SDKROOT; };
+		5163863414315ED900C4A455 /* Foundation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = Foundation.framework; path = System/Library/Frameworks/Foundation.framework; sourceTree = SDKROOT; };
+		5163863614315ED900C4A455 /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
+		5163863A14315ED900C4A455 /* AlphaTransparency-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "AlphaTransparency-Info.plist"; sourceTree = "<group>"; };
+		5163863C14315ED900C4A455 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
+		5163863E14315ED900C4A455 /* AlphaTransparency-Prefix.pch */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = "AlphaTransparency-Prefix.pch"; sourceTree = "<group>"; };
+		5163863F14315ED900C4A455 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		5163864114315ED900C4A455 /* AlphaTransparencyAppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AlphaTransparencyAppDelegate.h; sourceTree = "<group>"; };
+		5163864214315ED900C4A455 /* AlphaTransparencyAppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlphaTransparencyAppDelegate.m; sourceTree = "<group>"; };
+		5163864514315ED900C4A455 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/MainWindow.xib; sourceTree = "<group>"; };
+		5163864714315ED900C4A455 /* AlphaTransparencyViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AlphaTransparencyViewController.h; sourceTree = "<group>"; };
+		5163864814315ED900C4A455 /* AlphaTransparencyViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AlphaTransparencyViewController.m; sourceTree = "<group>"; };
+		5163864B14315ED900C4A455 /* en */ = {isa = PBXFileReference; lastKnownFileType = file.xib; name = en; path = en.lproj/AlphaTransparencyViewController.xib; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		5163862B14315ED900C4A455 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5163863314315ED900C4A455 /* UIKit.framework in Frameworks */,
+				5163863514315ED900C4A455 /* Foundation.framework in Frameworks */,
+				5163863714315ED900C4A455 /* CoreGraphics.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		5163862314315ED900C4A455 = {
+			isa = PBXGroup;
+			children = (
+				5163863814315ED900C4A455 /* AlphaTransparency */,
+				5163863114315ED900C4A455 /* Frameworks */,
+				5163862F14315ED900C4A455 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		5163862F14315ED900C4A455 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				5163862E14315ED900C4A455 /* AlphaTransparency.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		5163863114315ED900C4A455 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				5163863214315ED900C4A455 /* UIKit.framework */,
+				5163863414315ED900C4A455 /* Foundation.framework */,
+				5163863614315ED900C4A455 /* CoreGraphics.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		5163863814315ED900C4A455 /* AlphaTransparency */ = {
+			isa = PBXGroup;
+			children = (
+				5163864114315ED900C4A455 /* AlphaTransparencyAppDelegate.h */,
+				5163864214315ED900C4A455 /* AlphaTransparencyAppDelegate.m */,
+				5163864414315ED900C4A455 /* MainWindow.xib */,
+				5163864714315ED900C4A455 /* AlphaTransparencyViewController.h */,
+				5163864814315ED900C4A455 /* AlphaTransparencyViewController.m */,
+				5163864A14315ED900C4A455 /* AlphaTransparencyViewController.xib */,
+				5163863914315ED900C4A455 /* Supporting Files */,
+			);
+			path = AlphaTransparency;
+			sourceTree = "<group>";
+		};
+		5163863914315ED900C4A455 /* Supporting Files */ = {
+			isa = PBXGroup;
+			children = (
+				5163863A14315ED900C4A455 /* AlphaTransparency-Info.plist */,
+				5163863B14315ED900C4A455 /* InfoPlist.strings */,
+				5163863E14315ED900C4A455 /* AlphaTransparency-Prefix.pch */,
+				5163863F14315ED900C4A455 /* main.m */,
+			);
+			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		5163862D14315ED900C4A455 /* AlphaTransparency */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 5163864F14315ED900C4A455 /* Build configuration list for PBXNativeTarget "AlphaTransparency" */;
+			buildPhases = (
+				5163862A14315ED900C4A455 /* Sources */,
+				5163862B14315ED900C4A455 /* Frameworks */,
+				5163862C14315ED900C4A455 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = AlphaTransparency;
+			productName = AlphaTransparency;
+			productReference = 5163862E14315ED900C4A455 /* AlphaTransparency.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		5163862514315ED900C4A455 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				ORGANIZATIONNAME = N/A;
+			};
+			buildConfigurationList = 5163862814315ED900C4A455 /* Build configuration list for PBXProject "AlphaTransparency" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 5163862314315ED900C4A455;
+			productRefGroup = 5163862F14315ED900C4A455 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				5163862D14315ED900C4A455 /* AlphaTransparency */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		5163862C14315ED900C4A455 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5163863D14315ED900C4A455 /* InfoPlist.strings in Resources */,
+				5163864614315ED900C4A455 /* MainWindow.xib in Resources */,
+				5163864C14315ED900C4A455 /* AlphaTransparencyViewController.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		5163862A14315ED900C4A455 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				5163864014315ED900C4A455 /* main.m in Sources */,
+				5163864314315ED900C4A455 /* AlphaTransparencyAppDelegate.m in Sources */,
+				5163864914315ED900C4A455 /* AlphaTransparencyViewController.m in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		5163863B14315ED900C4A455 /* InfoPlist.strings */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5163863C14315ED900C4A455 /* en */,
+			);
+			name = InfoPlist.strings;
+			sourceTree = "<group>";
+		};
+		5163864414315ED900C4A455 /* MainWindow.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5163864514315ED900C4A455 /* en */,
+			);
+			name = MainWindow.xib;
+			sourceTree = "<group>";
+		};
+		5163864A14315ED900C4A455 /* AlphaTransparencyViewController.xib */ = {
+			isa = PBXVariantGroup;
+			children = (
+				5163864B14315ED900C4A455 /* en */,
+			);
+			name = AlphaTransparencyViewController.xib;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		5163864D14315ED900C4A455 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = DEBUG;
+				GCC_SYMBOLS_PRIVATE_EXTERN = NO;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				SDKROOT = iphoneos;
+			};
+			name = Debug;
+		};
+		5163864E14315ED900C4A455 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ARCHS = "$(ARCHS_STANDARD_32_BIT)";
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_VERSION = com.apple.compilers.llvmgcc42;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 4.3;
+				OTHER_CFLAGS = "-DNS_BLOCK_ASSERTIONS=1";
+				SDKROOT = iphoneos;
+			};
+			name = Release;
+		};
+		5163865014315ED900C4A455 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = NO;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AlphaTransparency/AlphaTransparency-Prefix.pch";
+				INFOPLIST_FILE = "AlphaTransparency/AlphaTransparency-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				WRAPPER_EXTENSION = app;
+			};
+			name = Debug;
+		};
+		5163865114315ED900C4A455 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				COPY_PHASE_STRIP = YES;
+				GCC_PRECOMPILE_PREFIX_HEADER = YES;
+				GCC_PREFIX_HEADER = "AlphaTransparency/AlphaTransparency-Prefix.pch";
+				INFOPLIST_FILE = "AlphaTransparency/AlphaTransparency-Info.plist";
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				VALIDATE_PRODUCT = YES;
+				WRAPPER_EXTENSION = app;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		5163862814315ED900C4A455 /* Build configuration list for PBXProject "AlphaTransparency" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5163864D14315ED900C4A455 /* Debug */,
+				5163864E14315ED900C4A455 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		5163864F14315ED900C4A455 /* Build configuration list for PBXNativeTarget "AlphaTransparency" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				5163865014315ED900C4A455 /* Debug */,
+				5163865114315ED900C4A455 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 5163862514315ED900C4A455 /* Project object */;
+}

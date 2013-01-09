@@ -1,0 +1,144 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* UIWebViewEmbed */ = {
+		activeExec = 0;
+		executables = (
+			518613BF13346676000599BC /* UIWebViewEmbed */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* UIWebViewEmbedViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {877, 486}}";
+			sepNavSelRange = "{314, 0}";
+			sepNavVisRange = "{0, 321}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* UIWebViewEmbedViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1146, 897}}";
+			sepNavSelRange = "{1308, 0}";
+			sepNavVisRange = "{710, 973}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 518613BF13346676000599BC /* UIWebViewEmbed */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UIWebViewEmbed */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* UIWebViewEmbed */,
+		);
+		codeSenseManager = 518613CA13346695000599BC /* Code sense */;
+		executables = (
+			518613BF13346676000599BC /* UIWebViewEmbed */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					699,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322201206;
+			PBXWorkspaceStateSaveDate = 322201206;
+		};
+		perUserProjectItems = {
+			518613D413346786000599BC /* PBXTextBookmark */ = 518613D413346786000599BC /* PBXTextBookmark */;
+			518613D513346786000599BC /* PBXTextBookmark */ = 518613D513346786000599BC /* PBXTextBookmark */;
+			518613E5133467F1000599BC /* PBXTextBookmark */ = 518613E5133467F1000599BC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 518613C913346695000599BC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	518613BF13346676000599BC /* UIWebViewEmbed */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UIWebViewEmbed;
+		savedGlobals = {
+		};
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	518613C913346695000599BC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	518613CA13346695000599BC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	518613D413346786000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* UIWebViewEmbedViewController.h */;
+		name = "UIWebViewEmbedViewController.h: 14";
+		rLen = 0;
+		rLoc = 314;
+		rType = 0;
+		vrLen = 321;
+		vrLoc = 0;
+	};
+	518613D513346786000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* UIWebViewEmbedViewController.m */;
+		name = "UIWebViewEmbedViewController.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 841;
+		vrLoc = 0;
+	};
+	518613E5133467F1000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* UIWebViewEmbedViewController.m */;
+		name = "UIWebViewEmbedViewController.m: 46";
+		rLen = 0;
+		rLoc = 1308;
+		rType = 0;
+		vrLen = 973;
+		vrLoc = 710;
+	};
+}

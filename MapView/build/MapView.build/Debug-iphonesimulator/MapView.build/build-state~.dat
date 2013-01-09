@@ -1,0 +1,256 @@
+TMapView
+v7
+r0
+t322193811.703152
+cCheck dependencies
+cProcessInfoPlistFile /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/Info.plist MapView-Info.plist
+cCompileXIB /Users/yangt299/Apps/MapView/MainWindow.xib
+cCompileXIB /Users/yangt299/Apps/MapView/MapViewViewController.xib
+cProcessPCH /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapView_Prefix-djaowwsipmkduxggarrgsptkpozw/MapView_Prefix.pch.gch MapView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/main.o /Users/yangt299/Apps/MapView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapViewAppDelegate.o /Users/yangt299/Apps/MapView/Classes/MapViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapViewViewController.o /Users/yangt299/Apps/MapView/Classes/MapViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView normal i386
+cGenerateDSYMFile /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app.dSYM /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView
+cTouch /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/yangt299/Apps/MapView/Classes/MapViewAppDelegate.h
+c000000004D84120700000000000001D1
+t1300500999
+s465
+i<UIKit/UIKit.h>
+
+N/Users/yangt299/Apps/MapView/Classes/MapViewAppDelegate.m
+c000000004D8412070000000000000A87
+t1300500999
+s2695
+i"MapViewAppDelegate.h"
+i"MapViewViewController.h"
+
+N/Users/yangt299/Apps/MapView/Classes/MapViewViewController.h
+c000000004D84120700000000000000E0
+t1300500999
+s224
+i<UIKit/UIKit.h>
+
+N/Users/yangt299/Apps/MapView/Classes/MapViewViewController.m
+c000000004D84120700000000000005B3
+t1300500999
+s1459
+i"MapViewViewController.h"
+
+N/Users/yangt299/Apps/MapView/MainWindow.xib
+c000000004D8412070000000000004E29
+t1300500999
+s20009
+
+N/Users/yangt299/Apps/MapView/MapViewViewController.xib
+c000000004D8412070000000000001A45
+t1300500999
+s6725
+
+N/Users/yangt299/Apps/MapView/MapView_Prefix.pch
+c000000004D84120700000000000000B7
+t1300500999
+s183
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app
+t1300501011
+s238
+
+N/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app.dSYM
+t1300501011
+s102
+
+N/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/Info.plist
+t1300501007
+s591
+
+N/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MainWindow.nib
+t1300501009
+s1123
+
+N/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView
+t1300501011
+s17008
+
+N/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapViewViewController.nib
+t1300501009
+s795
+
+N/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/PkgInfo
+t1300501007
+s8
+
+N/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapView.LinkFileList
+c000000004D84120F000000000000016F
+t1300501007
+s367
+
+N/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapViewAppDelegate.o
+t1300501011
+s50876
+
+N/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapViewViewController.o
+t1300501011
+s37480
+
+N/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/main.o
+t1300501011
+s6284
+
+N/Users/yangt299/Apps/MapView/main.m
+c000000004D841207000000000000015B
+t1300500999
+s347
+i<UIKit/UIKit.h>
+
+N/var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapView_Prefix-djaowwsipmkduxggarrgsptkpozw/MapView_Prefix.pch.gch
+t1300501010
+s15453392
+
+NMapView-Info.plist
+c000000004D841207000000000000038D
+t1300500999
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies322193807#322193807#0(0"0(0#1#0"8673295904#0"0#
+
+CCompileC build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapViewAppDelegate.o /Users/yangt299/Apps/MapView/Classes/MapViewAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322193810.933263
+e322193811.506229
+r1
+xCompileC
+xbuild/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapViewAppDelegate.o
+x/Users/yangt299/Apps/MapView/Classes/MapViewAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/yangt299/Apps/MapView/Classes/MapViewAppDelegate.m322193810#322193811#0(0"0(0#0#57"/Users/yangt299/Apps/MapView/Classes/MapViewAppDelegate.m8656640288#1840"    cd /Users/yangt299/Apps/MapView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-generated-files.hmap -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-own-target-headers.hmap -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-all-target-headers.hmap -iquote /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-project-headers.hmap -F/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator -I/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/include -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/DerivedSources/i386 -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/DerivedSources -include /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapView_Prefix-djaowwsipmkduxggarrgsptkpozw/MapView_Prefix.pch -c /Users/yangt299/Apps/MapView/Classes/MapViewAppDelegate.m -o /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapViewAppDelegate.o0#
+
+CCompileC build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapViewViewController.o /Users/yangt299/Apps/MapView/Classes/MapViewViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322193811.272944
+e322193811.562286
+r1
+xCompileC
+xbuild/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapViewViewController.o
+x/Users/yangt299/Apps/MapView/Classes/MapViewViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@68"Compile /Users/yangt299/Apps/MapView/Classes/MapViewViewController.m322193811#322193811#0(0"0(0#0#60"/Users/yangt299/Apps/MapView/Classes/MapViewViewController.m8672697760#1846"    cd /Users/yangt299/Apps/MapView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-generated-files.hmap -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-own-target-headers.hmap -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-all-target-headers.hmap -iquote /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-project-headers.hmap -F/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator -I/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/include -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/DerivedSources/i386 -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/DerivedSources -include /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapView_Prefix-djaowwsipmkduxggarrgsptkpozw/MapView_Prefix.pch -c /Users/yangt299/Apps/MapView/Classes/MapViewViewController.m -o /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapViewViewController.o0#
+
+CCompileC build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/main.o /Users/yangt299/Apps/MapView/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s322193810.931060
+e322193811.272816
+r1
+xCompileC
+xbuild/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/main.o
+x/Users/yangt299/Apps/MapView/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/yangt299/Apps/MapView/main.m322193810#322193811#0(0"0(0#0#35"/Users/yangt299/Apps/MapView/main.m8664145344#1804"    cd /Users/yangt299/Apps/MapView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-generated-files.hmap -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-own-target-headers.hmap -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-all-target-headers.hmap -iquote /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-project-headers.hmap -F/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator -I/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/include -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/DerivedSources/i386 -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/DerivedSources -include /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapView_Prefix-djaowwsipmkduxggarrgsptkpozw/MapView_Prefix.pch -c /Users/yangt299/Apps/MapView/main.m -o /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/yangt299/Apps/MapView/MainWindow.xib
+s322193807.758659
+e322193809.238285
+r1
+xCompileXIB
+x/Users/yangt299/Apps/MapView/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib322193807#322193809#0(0"0(0#0#43"/Users/yangt299/Apps/MapView/MainWindow.xib8646380960#540"    cd /Users/yangt299/Apps/MapView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MainWindow.nib /Users/yangt299/Apps/MapView/MainWindow.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB /Users/yangt299/Apps/MapView/MapViewViewController.xib
+s322193807.759906
+e322193809.210803
+r1
+xCompileXIB
+x/Users/yangt299/Apps/MapView/MapViewViewController.xib
+lSLF07#2@36"CompileXIB MapViewViewController.xib322193807#322193809#0(0"0(0#0#54"/Users/yangt299/Apps/MapView/MapViewViewController.xib8634331264#562"    cd /Users/yangt299/Apps/MapView    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapViewViewController.nib /Users/yangt299/Apps/MapView/MapViewViewController.xib --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app.dSYM /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView
+s322193811.651096
+e322193811.697437
+r1
+xGenerateDSYMFile
+x/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app.dSYM
+x/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView
+lSLF07#2@109"GenerateDSYMFile build/Debug-iphonesimulator/MapView.app.dSYM build/Debug-iphonesimulator/MapView.app/MapView322193811#322193811#0(0"0(0#0#76"/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView8663591232#353"    cd /Users/yangt299/Apps/MapView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView -o /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app.dSYM0#
+
+CLd /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView normal i386
+s322193811.562377
+e322193811.650982
+r1
+xLd
+x/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView
+xnormal
+xi386
+lSLF07#2@81"Link /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView322193811#322193811#0(0"0(0#0#0"8666228928#850"    cd /Users/yangt299/Apps/MapView    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -L/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator -F/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator -filelist /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/Objects-normal/i386/MapView.LinkFileList -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/MapView0#
+
+CProcessInfoPlistFile /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/Info.plist MapView-Info.plist
+s322193807.690577
+e322193807.758563
+r1
+xProcessInfoPlistFile
+x/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/Info.plist
+xMapView-Info.plist
+lSLF07#2@26"Process MapView-Info.plist322193807#322193807#0(0"0(0#0#47"/Users/yangt299/Apps/MapView/MapView-Info.plist8660824192#449"    cd /Users/yangt299/Apps/MapView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility MapView-Info.plist -genpkginfo /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app/Info.plist0#
+
+CProcessPCH /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapView_Prefix-djaowwsipmkduxggarrgsptkpozw/MapView_Prefix.pch.gch MapView_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s322193809.238403
+e322193810.930756
+r1
+xProcessPCH
+x/var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapView_Prefix-djaowwsipmkduxggarrgsptkpozw/MapView_Prefix.pch.gch
+xMapView_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@29"Precompile MapView_Prefix.pch322193809#322193810#0(0"0(0#0#47"/Users/yangt299/Apps/MapView/MapView_Prefix.pch8654938912#1706"    cd /Users/yangt299/Apps/MapView    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-generated-files.hmap -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-own-target-headers.hmap -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-all-target-headers.hmap -iquote /Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/MapView-project-headers.hmap -F/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator -I/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/include -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/DerivedSources/i386 -I/Users/yangt299/Apps/MapView/build/MapView.build/Debug-iphonesimulator/MapView.build/DerivedSources -c /Users/yangt299/Apps/MapView/MapView_Prefix.pch -o /var/folders/+m/+m67uy3RFz8JcPkRoZoseE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/MapView_Prefix-djaowwsipmkduxggarrgsptkpozw/MapView_Prefix.pch.gch0#
+
+CTouch /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app
+s322193811.697571
+e322193811.703104
+r1
+xTouch
+x/Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app
+lSLF07#2@74"Touch /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app322193811#322193811#0(0"0(0#0#0"8661070400#258"    cd /Users/yangt299/Apps/MapView    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/yangt299/Apps/MapView/build/Debug-iphonesimulator/MapView.app0#
+

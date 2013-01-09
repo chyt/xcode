@@ -1,0 +1,141 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Download */ = {
+		activeExec = 0;
+		executables = (
+			518613651334528B000599BC /* Download */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* DownloadViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {953, 463}}";
+			sepNavSelRange = "{240, 0}";
+			sepNavVisRange = "{0, 247}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* DownloadViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1244, 1092}}";
+			sepNavSelRange = "{463, 0}";
+			sepNavVisRange = "{0, 1205}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 518613651334528B000599BC /* Download */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Download */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* Download */,
+		);
+		codeSenseManager = 518613711334529E000599BC /* Code sense */;
+		executables = (
+			518613651334528B000599BC /* Download */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					775,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322196107;
+			PBXWorkspaceStateSaveDate = 322196107;
+		};
+		perUserProjectItems = {
+			51861379133458C9000599BC /* PBXTextBookmark */ = 51861379133458C9000599BC /* PBXTextBookmark */;
+			5186137A133458C9000599BC /* PBXTextBookmark */ = 5186137A133458C9000599BC /* PBXTextBookmark */;
+			5186137B133458C9000599BC /* PBXBookmark */ = 5186137B133458C9000599BC /* PBXBookmark */;
+			5186137C133458C9000599BC /* PBXBookmark */ = 5186137C133458C9000599BC /* PBXBookmark */;
+		};
+		sourceControlManager = 518613701334529E000599BC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	518613651334528B000599BC /* Download */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Download;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	518613701334529E000599BC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	518613711334529E000599BC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	51861379133458C9000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* DownloadViewController.h */;
+		name = "DownloadViewController.h: 14";
+		rLen = 0;
+		rLoc = 240;
+		rType = 0;
+		vrLen = 247;
+		vrLoc = 0;
+	};
+	5186137A133458C9000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* DownloadViewController.m */;
+		name = "DownloadViewController.m: 15";
+		rLen = 0;
+		rLoc = 463;
+		rType = 0;
+		vrLen = 1205;
+		vrLoc = 0;
+	};
+	5186137B133458C9000599BC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 51861372133452E2000599BC /* LowBattery.png */;
+	};
+	5186137C133458C9000599BC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 51861372133452E2000599BC /* LowBattery.png */;
+	};
+}

@@ -1,0 +1,151 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* UIAlertViewAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 486}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 489}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* UIAlertView */ = {
+		activeExec = 0;
+		executables = (
+			5186138913346143000599BC /* UIAlertView */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* UIAlertViewViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {904, 486}}";
+			sepNavSelRange = "{250, 0}";
+			sepNavVisRange = "{0, 257}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* UIAlertViewViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1475, 949}}";
+			sepNavSelRange = "{489, 0}";
+			sepNavVisRange = "{0, 1042}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5186138913346143000599BC /* UIAlertView */;
+		activeSDKPreference = iphonesimulator4.2;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* UIAlertView */;
+		codeSenseManager = 5186138E13346162000599BC /* Code sense */;
+		executables = (
+			5186138913346143000599BC /* UIAlertView */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					726,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322199875;
+			PBXWorkspaceStateSaveDate = 322199875;
+		};
+		perUserProjectItems = {
+			51861392133461FB000599BC /* PBXTextBookmark */ = 51861392133461FB000599BC /* PBXTextBookmark */;
+			51861393133461FB000599BC /* PBXTextBookmark */ = 51861393133461FB000599BC /* PBXTextBookmark */;
+			51861394133461FB000599BC /* PBXBookmark */ = 51861394133461FB000599BC /* PBXBookmark */;
+			518613A213346573000599BC /* PBXTextBookmark */ = 518613A213346573000599BC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5186138D13346162000599BC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5186138913346143000599BC /* UIAlertView */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = UIAlertView;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5186138D13346162000599BC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5186138E13346162000599BC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	51861392133461FB000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* UIAlertViewAppDelegate.h */;
+		name = "UIAlertViewAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 489;
+		vrLoc = 0;
+	};
+	51861393133461FB000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* UIAlertViewViewController.h */;
+		name = "UIAlertViewViewController.h: 14";
+		rLen = 0;
+		rLoc = 250;
+		rType = 0;
+		vrLen = 257;
+		vrLoc = 0;
+	};
+	51861394133461FB000599BC /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* UIAlertViewViewController.m */;
+	};
+	518613A213346573000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* UIAlertViewViewController.m */;
+		name = "UIAlertViewViewController.m: 17";
+		rLen = 0;
+		rLoc = 489;
+		rType = 0;
+		vrLen = 1042;
+		vrLoc = 0;
+	};
+}

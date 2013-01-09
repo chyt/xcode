@@ -1,0 +1,213 @@
+// !$*UTF8*$!
+{
+	1D3623240D0F684500981E51 /* NavAppAppDelegate.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 740}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 459}";
+		};
+	};
+	1D3623250D0F684500981E51 /* NavAppAppDelegate.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1965, 1053}}";
+			sepNavSelRange = "{0, 0}";
+			sepNavVisRange = "{0, 1940}";
+		};
+	};
+	1D6058900D05DD3D006BFB54 /* NavApp */ = {
+		activeExec = 0;
+		executables = (
+			5186133713344C06000599BC /* NavApp */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* NavAppViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 740}}";
+			sepNavSelRange = "{174, 0}";
+			sepNavVisRange = "{0, 244}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* NavAppViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 871}}";
+			sepNavSelRange = "{185, 0}";
+			sepNavVisRange = "{0, 1468}";
+			sepNavWindowFrame = "{{15, 4}, {1166, 1054}}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 5186133713344C06000599BC /* NavApp */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* NavApp */;
+		addToTargets = (
+			1D6058900D05DD3D006BFB54 /* NavApp */,
+		);
+		codeSenseManager = 5186133C13344C25000599BC /* Code sense */;
+		executables = (
+			5186133713344C06000599BC /* NavApp */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					1473,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322194438;
+			PBXWorkspaceStateSaveDate = 322194438;
+		};
+		perUserProjectItems = {
+			5186134713344C98000599BC /* PBXTextBookmark */ = 5186134713344C98000599BC /* PBXTextBookmark */;
+			5186134813344C98000599BC /* PBXTextBookmark */ = 5186134813344C98000599BC /* PBXTextBookmark */;
+			5186134913344C98000599BC /* PBXTextBookmark */ = 5186134913344C98000599BC /* PBXTextBookmark */;
+			5186134A13344C98000599BC /* PBXTextBookmark */ = 5186134A13344C98000599BC /* PBXTextBookmark */;
+			5186134B13344C98000599BC /* PBXTextBookmark */ = 5186134B13344C98000599BC /* PBXTextBookmark */;
+			5186134C13344C98000599BC /* PBXTextBookmark */ = 5186134C13344C98000599BC /* PBXTextBookmark */;
+			5186134D13344C98000599BC /* PBXTextBookmark */ = 5186134D13344C98000599BC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 5186133B13344C25000599BC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	5186133713344C06000599BC /* NavApp */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = NavApp;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	5186133B13344C25000599BC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	5186133C13344C25000599BC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5186133F13344C3E000599BC /* NewPage.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 740}}";
+			sepNavSelRange = "{206, 0}";
+			sepNavVisRange = "{0, 212}";
+		};
+	};
+	5186134013344C3E000599BC /* NewPage.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1651, 806}}";
+			sepNavSelRange = "{235, 0}";
+			sepNavVisRange = "{0, 1426}";
+		};
+	};
+	5186134713344C98000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623240D0F684500981E51 /* NavAppAppDelegate.h */;
+		name = "NavAppAppDelegate.h: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 459;
+		vrLoc = 0;
+	};
+	5186134813344C98000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 1D3623250D0F684500981E51 /* NavAppAppDelegate.m */;
+		name = "NavAppAppDelegate.m: 1";
+		rLen = 0;
+		rLoc = 0;
+		rType = 0;
+		vrLen = 1940;
+		vrLoc = 0;
+	};
+	5186134913344C98000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* NavAppViewController.h */;
+		name = "NavAppViewController.h: 11";
+		rLen = 0;
+		rLoc = 174;
+		rType = 0;
+		vrLen = 244;
+		vrLoc = 0;
+	};
+	5186134A13344C98000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5186133F13344C3E000599BC /* NewPage.h */;
+		name = "NewPage.h: 15";
+		rLen = 0;
+		rLoc = 206;
+		rType = 0;
+		vrLen = 212;
+		vrLoc = 0;
+	};
+	5186134B13344C98000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 5186134013344C3E000599BC /* NewPage.m */;
+		name = "NewPage.m: 16";
+		rLen = 0;
+		rLoc = 235;
+		rType = 0;
+		vrLen = 1426;
+		vrLoc = 0;
+	};
+	5186134C13344C98000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* NavAppViewController.m */;
+		name = "NavAppViewController.m: 10";
+		rLen = 0;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 1468;
+		vrLoc = 0;
+	};
+	5186134D13344C98000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* NavAppViewController.m */;
+		name = "NavAppViewController.m: 10";
+		rLen = 0;
+		rLoc = 185;
+		rType = 0;
+		vrLen = 1468;
+		vrLoc = 0;
+	};
+}

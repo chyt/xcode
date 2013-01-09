@@ -1,0 +1,138 @@
+// !$*UTF8*$!
+{
+	1D6058900D05DD3D006BFB54 /* Email */ = {
+		activeExec = 0;
+		executables = (
+			518614471335448E000599BC /* Email */,
+		);
+	};
+	28D7ACF60DDB3853001CB0EB /* EmailViewController.h */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {902, 486}}";
+			sepNavSelRange = "{288, 36}";
+			sepNavVisRange = "{0, 400}";
+		};
+	};
+	28D7ACF70DDB3853001CB0EB /* EmailViewController.m */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {1559, 832}}";
+			sepNavSelRange = "{1506, 0}";
+			sepNavVisRange = "{234, 1309}";
+		};
+	};
+	29B97313FDCFA39411CA2CEA /* Project object */ = {
+		activeBuildConfigurationName = Debug;
+		activeExecutable = 518614471335448E000599BC /* Email */;
+		activeTarget = 1D6058900D05DD3D006BFB54 /* Email */;
+		codeSenseManager = 51861459133544A1000599BC /* Code sense */;
+		executables = (
+			518614471335448E000599BC /* Email */,
+		);
+		perUserDictionary = {
+			PBXConfiguration.PBXFileTableDataSource3.PBXFileTableDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					724,
+					20,
+					48.16259765625,
+					43,
+					43,
+					20,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+					PBXFileDataSource_Target_ColumnID,
+				);
+			};
+			PBXPerProjectTemplateStateSaveDate = 322258062;
+			PBXWorkspaceStateSaveDate = 322258062;
+		};
+		perUserProjectItems = {
+			5186146313354820000599BC /* PBXTextBookmark */ = 5186146313354820000599BC /* PBXTextBookmark */;
+			5186146413354820000599BC /* PBXTextBookmark */ = 5186146413354820000599BC /* PBXTextBookmark */;
+			5186146513354820000599BC /* PBXTextBookmark */ = 5186146513354820000599BC /* PBXTextBookmark */;
+		};
+		sourceControlManager = 51861458133544A1000599BC /* Source Control */;
+		userBuildSettings = {
+		};
+	};
+	518614471335448E000599BC /* Email */ = {
+		isa = PBXExecutable;
+		activeArgIndices = (
+		);
+		argumentStrings = (
+		);
+		autoAttachOnCrash = 1;
+		breakpointsEnabled = 0;
+		configStateDict = {
+		};
+		customDataFormattersEnabled = 1;
+		dataTipCustomDataFormattersEnabled = 1;
+		dataTipShowTypeColumn = 1;
+		dataTipSortType = 0;
+		debuggerPlugin = GDBDebugging;
+		disassemblyDisplayState = 0;
+		dylibVariantSuffix = "";
+		enableDebugStr = 1;
+		environmentEntries = (
+		);
+		executableSystemSymbolLevel = 0;
+		executableUserSymbolLevel = 0;
+		libgmallocEnabled = 0;
+		name = Email;
+		showTypeColumn = 0;
+		sourceDirectories = (
+		);
+	};
+	51861458133544A1000599BC /* Source Control */ = {
+		isa = PBXSourceControlManager;
+		fallbackIsa = XCSourceControlManager;
+		isSCMEnabled = 0;
+		scmConfiguration = {
+			repositoryNamesForRoots = {
+				"" = "";
+			};
+		};
+	};
+	51861459133544A1000599BC /* Code sense */ = {
+		isa = PBXCodeSenseManager;
+		indexTemplatePath = "";
+	};
+	5186146313354820000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF60DDB3853001CB0EB /* EmailViewController.h */;
+		name = "EmailViewController.h: 13";
+		rLen = 36;
+		rLoc = 288;
+		rType = 0;
+		vrLen = 400;
+		vrLoc = 0;
+	};
+	5186146413354820000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EmailViewController.m */;
+		name = "EmailViewController.m: 38";
+		rLen = 0;
+		rLoc = 1078;
+		rType = 0;
+		vrLen = 1147;
+		vrLoc = 234;
+	};
+	5186146513354820000599BC /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 28D7ACF70DDB3853001CB0EB /* EmailViewController.m */;
+		name = "EmailViewController.m: 49";
+		rLen = 0;
+		rLoc = 1506;
+		rType = 0;
+		vrLen = 1309;
+		vrLoc = 234;
+	};
+}
